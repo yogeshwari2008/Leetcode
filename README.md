@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/yogeshwari2008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2418-sort-the-people](https://github.com/yogeshwari2008/Leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yogeshwari2008/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/yogeshwari2008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yogeshwari2008/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/yogeshwari2008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
