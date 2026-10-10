@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/yogeshwari2008/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [2418-sort-the-people](https://github.com/yogeshwari2008/Leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yogeshwari2008/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/yogeshwari2008/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
