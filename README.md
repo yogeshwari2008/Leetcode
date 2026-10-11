@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/yogeshwari2008/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [2418-sort-the-people](https://github.com/yogeshwari2008/Leetcode/tree/master/2418-sort-the-people) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yogeshwari2008/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/yogeshwari2008/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yogeshwari2008/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
