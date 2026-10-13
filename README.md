@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yogeshwari2008/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2418-sort-the-people](https://github.com/yogeshwari2008/Leetcode/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yogeshwari2008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/yogeshwari2008/Leetcode/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yogeshwari2008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yogeshwari2008/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yogeshwari2008/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
